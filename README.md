@@ -2,4 +2,4 @@
 First time using git
 Hi!
 my name is Trust...new to all this...wanna make sense of all this crap <br>
-<h2>starting with html,css and then JS and then some node.js and then going fully into front-end dev</h2>
+<h2>starting with html,css and then JS and then some node.js and then going fully into front-end dev and probably ML and cloud computing...lol</h2>
